@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="jakarta_servlet_jsp_jstl-3_0_1_jar_">
+    <output-path>$PROJECT_DIR$/out/artifacts/jakarta_servlet_jsp_jstl_3_0_1_jar_</output-path>
+    <root id="root">
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jakarta.servlet.jsp.jstl-3.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
